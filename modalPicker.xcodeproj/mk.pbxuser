@@ -1,0 +1,309 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* modalPickerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {763, 541}}";
+			sepNavSelRange = "{484, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	1D3623250D0F684500981E51 /* modalPickerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 845}}";
+			sepNavSelRange = "{295, 0}";
+			sepNavVisRange = "{0, 1344}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* modalPicker */ = {
+		activeExec = 0;
+		executables = (
+			4D57FCED1362CB01008501E7 /* modalPicker */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4D57FCED1362CB01008501E7 /* modalPicker */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* modalPicker */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* modalPicker */,
+		);
+		codeSenseManager = 4D57FCF21362CB21008501E7 /* Code sense */;
+		executables = (
+			4D57FCED1362CB01008501E7 /* modalPicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					772,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331373088;
+			PBXWorkspaceStateSaveDate = 331373088;
+		};
+		perUserProjectItems = {
+			4D44995D13C05A2A00C5E140 /* PBXTextBookmark */ = 4D44995D13C05A2A00C5E140 /* PBXTextBookmark */;
+			4D57FD281362CFF5008501E7 = 4D57FD281362CFF5008501E7 /* PBXTextBookmark */;
+			4D57FD291362CFF5008501E7 = 4D57FD291362CFF5008501E7 /* PBXTextBookmark */;
+			4D57FDB41362E4D5008501E7 = 4D57FDB41362E4D5008501E7 /* PlistBookmark */;
+			4D57FE8F13632654008501E7 = 4D57FE8F13632654008501E7 /* PBXTextBookmark */;
+			4D57FE9113632654008501E7 = 4D57FE9113632654008501E7 /* PBXTextBookmark */;
+			4D57FF9813633EEA008501E7 = 4D57FF9813633EEA008501E7 /* PBXTextBookmark */;
+			4D57FF9913633EEA008501E7 = 4D57FF9913633EEA008501E7 /* PBXTextBookmark */;
+			4D57FF9B13633EEA008501E7 = 4D57FF9B13633EEA008501E7 /* PBXTextBookmark */;
+			4DF89FFB136AC439009C2CA7 = 4DF89FFB136AC439009C2CA7 /* PBXTextBookmark */;
+			4DF89FFC136AC439009C2CA7 = 4DF89FFC136AC439009C2CA7 /* PBXTextBookmark */;
+			4DF89FFD136AC439009C2CA7 = 4DF89FFD136AC439009C2CA7 /* PBXTextBookmark */;
+			4DF89FFE136AC439009C2CA7 = 4DF89FFE136AC439009C2CA7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4D57FCF11362CB21008501E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4D44995D13C05A2A00C5E140 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FCF51362CB34008501E7 /* modalPickerViewController.m */;
+		name = "modalPickerViewController.m: 82";
+		rLen = 0;
+		rLoc = 2502;
+		rType = 0;
+		vrLen = 1140;
+		vrLoc = 1777;
+	};
+	4D57FCED1362CB01008501E7 /* modalPicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = modalPicker;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4D57FCF11362CB21008501E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4D57FCF21362CB21008501E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4D57FCF41362CB34008501E7 /* modalPickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 553}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 347}";
+		};
+	};
+	4D57FCF51362CB34008501E7 /* modalPickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1534}}";
+			sepNavSelRange = "{2502, 0}";
+			sepNavVisRange = "{1777, 1140}";
+		};
+	};
+	4D57FD091362CD6F008501E7 /* ventanita.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 553}}";
+			sepNavSelRange = "{947, 0}";
+			sepNavVisRange = "{0, 955}";
+		};
+	};
+	4D57FD0A1362CD6F008501E7 /* ventanita.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 1586}}";
+			sepNavSelRange = "{2957, 166}";
+			sepNavVisRange = "{0, 1314}";
+		};
+	};
+	4D57FD221362CFE1008501E7 /* PickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {989, 517}}";
+			sepNavSelRange = "{497, 249}";
+			sepNavVisRange = "{0, 753}";
+		};
+	};
+	4D57FD231362CFE1008501E7 /* PickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1430}}";
+			sepNavSelRange = "{2862, 0}";
+			sepNavVisRange = "{2166, 1096}";
+		};
+	};
+	4D57FD281362CFF5008501E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* modalPickerAppDelegate.h */;
+		name = "modalPickerAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 484;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	4D57FD291362CFF5008501E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* modalPickerAppDelegate.m */;
+		name = "modalPickerAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 295;
+		rType = 0;
+		vrLen = 1344;
+		vrLoc = 0;
+	};
+	4D57FDB41362E4D5008501E7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* modalPicker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIInterfaceOrientation,
+		);
+		name = "/Users/mk/Documents/iPad/modalPickerUpdated/modalPicker-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4D57FE3D13631D60008501E7 /* PickerViewController2.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {989, 540}}";
+			sepNavSelRange = "{326, 0}";
+			sepNavVisRange = "{0, 713}";
+		};
+	};
+	4D57FE3E13631D60008501E7 /* PickerViewController2.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1209}}";
+			sepNavSelRange = "{746, 0}";
+			sepNavVisRange = "{1032, 1785}";
+		};
+	};
+	4D57FE8F13632654008501E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FE3D13631D60008501E7 /* PickerViewController2.h */;
+		name = "PickerViewController2.h: 17";
+		rLen = 0;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 713;
+		vrLoc = 0;
+	};
+	4D57FE9113632654008501E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FD221362CFE1008501E7 /* PickerViewController.h */;
+		name = "PickerViewController.h: 25";
+		rLen = 249;
+		rLoc = 497;
+		rType = 0;
+		vrLen = 753;
+		vrLoc = 0;
+	};
+	4D57FF9813633EEA008501E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FE3E13631D60008501E7 /* PickerViewController2.m */;
+		name = "PickerViewController2.m: 32";
+		rLen = 0;
+		rLoc = 746;
+		rType = 0;
+		vrLen = 1785;
+		vrLoc = 1032;
+	};
+	4D57FF9913633EEA008501E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FD231362CFE1008501E7 /* PickerViewController.m */;
+		name = "PickerViewController.m: 84";
+		rLen = 0;
+		rLoc = 2862;
+		rType = 0;
+		vrLen = 1096;
+		vrLoc = 2166;
+	};
+	4D57FF9B13633EEA008501E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FCF51362CB34008501E7 /* modalPickerViewController.m */;
+		name = "modalPickerViewController.m: 82";
+		rLen = 0;
+		rLoc = 2502;
+		rType = 0;
+		vrLen = 1291;
+		vrLoc = 1754;
+	};
+	4DF89FFB136AC439009C2CA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FD0A1362CD6F008501E7 /* ventanita.m */;
+		name = "ventanita.m: 81";
+		rLen = 166;
+		rLoc = 2957;
+		rType = 0;
+		vrLen = 1314;
+		vrLoc = 0;
+	};
+	4DF89FFC136AC439009C2CA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FD091362CD6F008501E7 /* ventanita.h */;
+		name = "ventanita.h: 32";
+		rLen = 0;
+		rLoc = 947;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 0;
+	};
+	4DF89FFD136AC439009C2CA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FCF41362CB34008501E7 /* modalPickerViewController.h */;
+		name = "modalPickerViewController.h: 14";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 0;
+	};
+	4DF89FFE136AC439009C2CA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D57FCF51362CB34008501E7 /* modalPickerViewController.m */;
+		name = "modalPickerViewController.m: 82";
+		rLen = 0;
+		rLoc = 2502;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 1777;
+	};
+}
